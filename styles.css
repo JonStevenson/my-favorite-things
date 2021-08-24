@@ -1,0 +1,32 @@
+h1 {
+    text-align:center
+}
+
+img {
+    border: 30px solid;
+    border-color: rgb(0, 176, 199);
+    max-height: 20;
+}
+
+body {
+    border: 20px solid;
+    background-color: rgb(231, 174, 52);
+    color: rgb(0, 57, 61)
+}
+
+h1, h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    text-decoration: underline;
+    color:rgb(0, 92, 104)
+}
+
+
+
+a {
+  color: #2D5723;
+}
+
+a:hover{
+    color: #2CE300;
+}
